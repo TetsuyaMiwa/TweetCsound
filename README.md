@@ -3,6 +3,8 @@ Archive of my csd for TweetCsound(つぶやきCsound) project.
 The final version and draft (if any) are stored. The draft files are useful for investigating the detailed logic which is compressed and unreadable in the final version.   
 
 ## **About the project**  
+Join the project!  
+
 (English)  
 https://note.com/tmnkj/n/nd204ada01d14  
 (Japanese)  
