@@ -12,6 +12,7 @@ https://note.com/tmnkj/n/n7116316ba6bf
 
 ## **My csd for つぶやきCsound/TweetCsound**  
 Brief description on my tweeted csd  
+[Link to Japanese description](https://github.com/TetsuyaMiwa/TweetCsound/blob/main/README(J).md)
 | No | Opcodes used| Description | Csound Web-IDE |  
 | --- | --- | --- | --- |  
 | 30 | fold,delay,schedule,random | 800Hz-saw wave is modified by 'fold'. Delayed asig is output to another channel to get wider stereo sound. The length of the sound is selected randomly from 0.2 multiplied by 1/2,2/2,3/2. The amount of foldover is selected randomly from 10,20,..40. |  [No30](https://ide.csound.com/editor/V0X6W6FGKltfo1S8gfab) |
