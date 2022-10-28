@@ -1,6 +1,6 @@
 # TweetCsound
 Archive of my csd for TweetCsound(つぶやきCsound) project.   
-The final version and draft (if any) are stored. The draft files are useful for investigating the detailed logic which is compressed and unreadable in the final version.   
+The final version and draft (if any) are stored in the 'files' folder. The draft files are useful for investigating the detailed logic which is compressed and unreadable in the final version.   
 
 ## **About the project**  
 Join the project!  
